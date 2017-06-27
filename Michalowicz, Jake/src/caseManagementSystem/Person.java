@@ -1,7 +1,7 @@
-package softwareNameHere;
+package caseManagementSystem;
 
 /**
- * The Person class is used to creat a person with the basic
+ * The Person class is used to create a person with the basic
  * contact information:
  * First name, Last Name, Email, Address, Phone Number
  * 

@@ -1,4 +1,4 @@
-package softwareNameHere;
+package caseManagementSystem;
 
 public class Software 
 {
